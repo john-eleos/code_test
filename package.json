@@ -1,0 +1,16 @@
+{
+    "name": "code_interview",
+    "version": "1.0.0",
+    "description": "",
+    "main": " ",
+    "scripts": {
+      "test": "jest",
+      "start": "node index.js"
+    },
+    "author": "eleos",
+    "license": "ISC",
+    "devDependencies": {
+      "jest": "^28.1.0"
+    }
+  }
+  
